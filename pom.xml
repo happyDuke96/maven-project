@@ -21,8 +21,8 @@
     </properties>
 
     <scm>
-        <connection>scm:git:git@github.com:happyDuke96/maven-project.git</connection>
-        <developerConnection>scm:git:git@github.com:happyDuke96/maven-project.git</developerConnection>
+        <connection>scm:git:git:https://github.com/happyDuke96/maven-project.git</connection>
+        <developerConnection>scm:git:git:https://github.com/happyDuke96/maven-project.git</developerConnection>
         <url>https://github.com/happyDuke96/maven-project</url>
     </scm>
 
